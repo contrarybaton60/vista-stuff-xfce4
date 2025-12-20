@@ -5,7 +5,7 @@ themes and other stuff made to resemble Windows Vista, specifically for the Xfce
 You'll need the following packages for it to look good:
 ~~~
 - compiz compizconfig-settings-manager emerald (window manager stuff)
-- ayatana-indicator-display ayatana-indicator-sound cbatticon (system tray)
+- ayatana-indicator-display ayatana-indicator-sound cbatticon (system tray to replace Xfce applets)
 - obsidian-icon-theme (perferred icon theme I like to use)
 - kvantum (to use the kvantum theme)
 ~~~
@@ -15,6 +15,8 @@ Emerald:
 ~~~
 Use Button Fade Pulse: disabled
 Compiz Decoration Blur Type: Titlebar only
+Edit Themes > Frame Engine > Title Glow: 0.72
+Edit Themes > Frame Engine > Glow Radius: 17.8
 ~~~
 
 Compiz:
