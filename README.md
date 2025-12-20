@@ -29,7 +29,7 @@ Fonts:
 Segoe UI Regular:
 size 9 as default
 size 10 for titlebars
-(xfce4-settings > Window Manager)
+(xfce4-settings-manager > Window Manager)
 (emerald > Edit Themes > Titlebar)
 ~~~
 
