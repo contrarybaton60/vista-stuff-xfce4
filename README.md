@@ -11,6 +11,7 @@ You'll need the following packages for it to look good:
 ~~~
 
 Other stuff to configure
+
 Emerald:
 ~~~
 Use Button Fade Pulse: disabled
