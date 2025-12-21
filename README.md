@@ -1,6 +1,6 @@
 # vista-stuff-xfce4
 <img width="1920" height="1080" alt="Screenshot_2025-12-20_17-00-17" src="https://github.com/user-attachments/assets/6028b027-5b40-48d8-96e3-a66eb141f116" />
-themes and other stuff made to resemble Windows Vista, specifically for the Xfce desktop environment.
+A collection of themes and other stuff made to resemble Windows Vista, specifically for the Xfce desktop environment.
 
 You'll need the following packages for it to look good:
 ~~~
