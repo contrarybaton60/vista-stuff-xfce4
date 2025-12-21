@@ -37,4 +37,4 @@ size 10 for titlebars
 (emerald > Edit Themes > Titlebar)
 ~~~
 
-licenses are in the readme files in the folders
+credits and licenses are in the readme files in the folders
